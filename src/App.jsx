@@ -49,7 +49,6 @@ export default function App() {
               setScreen("controlfile");
             } else if (file.name.toLowerCase() === "datafile") {
               setScreen("tablespace"); 
-              alert("Aún no implementado");
             }
           }}
           onBack={() => setScreen("characterSelect")}
