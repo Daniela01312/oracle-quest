@@ -21,7 +21,7 @@ const personajes = {
     nombre: "Marc Anthony",
     img: marc,
     frases: {
-      correcto: ["Bien chin@, lo hizo bien.", "Esa sí fue con flow."],
+      correcto: ["Bien chin@, lo hizo bien.", "Si ve que si puede."],
       incorrecto: ["Hágale, vuelva a intentarlo.", "Nah, no era por ahí."],
       finalAlto: "¡Durísimo, me le quito el sombrero!",
       finalBajo: "Bueno, se intentó, pero hay que practicar más.",
