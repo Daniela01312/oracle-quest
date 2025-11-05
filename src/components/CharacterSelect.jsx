@@ -13,7 +13,7 @@ export default function CharacterSelect({ onSelectCharacter, onBack }) {
     { id: 1, name: "Viejo Sabroso", image: viejo },
     { id: 2, name: "Marc Anthony", image: marc },
     { id: 3, name: "El Motivador", image: motivador },
-    { id: 4, name: "Reclutadora de Gays", image: reclutadora },
+    { id: 4, name: "La Reclutadora", image: reclutadora },
   ];
 
   return (

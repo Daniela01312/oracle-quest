@@ -174,7 +174,7 @@ const ControlfileQuiz = ({ character, onBackToFiles }) => {
         return "marc";
       case "El Motivador":
         return "motivador";
-      case "Reclutadora de Gays":
+      case "La Reclutadora":
         return "reclutadora";
       default:
         return "viejo";
